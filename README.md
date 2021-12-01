@@ -13,22 +13,22 @@ Enphase. Power by people.
 
 ## Our Values
 1. Customer first
-  * We exist for our customers.
-  * We listen to our customers and measure our success based on their feedback.
-  * We take action to deliver the best customer experience.
+   * We exist for our customers.
+   * We listen to our customers and measure our success based on their feedback.
+   * We take action to deliver the best customer experience.
 2. Integrity
-  * We tell the truth at all times, without making excuses.
-  * We do what's best for the company.
-  * We take ownership of our behaviors and results.
+   * We tell the truth at all times, without making excuses.
+   * We do what's best for the company.
+   * We take ownership of our behaviors and results.
 3. Innovation
-  * We value innovation and recognize that it is the cornerstone of our existence.
-  * We encourage risk-taking and challenge the status quo to find solutions.
-  * We actively promote innovation through curiosity and continuous learning.
+   * We value innovation and recognize that it is the cornerstone of our existence.
+   * We encourage risk-taking and challenge the status quo to find solutions.
+   * We actively promote innovation through curiosity and continuous learning.
 4. Teamwork
-  * We appreciate and respect different behavioral styles and perspectives.
-  * We collaborate globally to achieve more together than we can on our own.
-  * We actively work to break down silos.
+   * We appreciate and respect different behavioral styles and perspectives.
+   * We collaborate globally to achieve more together than we can on our own.
+   * We actively work to break down silos.
 5. Quality
-  * We place safety and quality above everything else.
-  * We measure everything that matters and drive continuous improvement.
-  * We make the highest-quality products.
+   * We place safety and quality above everything else.
+   * We measure everything that matters and drive continuous improvement.
+   * We make the highest-quality products.
