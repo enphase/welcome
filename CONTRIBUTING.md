@@ -4,7 +4,7 @@
 
 All Enphase projects adhere to the Contributor Covenant [code of conduct](CODE_OF_CONDUCT.md).
 By participating, you are expected to uphold this code. Please report unacceptable
-behavior to {TODO: Add a moderator email}.
+behavior to open-source@enphaseenergy.com.
 
 The following is a set of guidelines for contributing to Enphase Open Source Projects.
 These are just guidelines, not rules, use your best judgment and feel free to
